@@ -2,6 +2,8 @@
 
 A collection of 3D printed cases for all the keyboards in the collection. 
 
+**For anyone designing a case for any of the keyboards.** Please feel free to add your link and make a pull request, I'm happy to add any designs.  
+
 ## Cases for the Chameleon Family
 Contains the exact same 3D designs as well as plate designs sold in the Lectronz shop for the 'Skinny Chameleon' and the 'Fat Chameleon', feel free to print in any material/color you desire. 
 
@@ -36,10 +38,6 @@ All cases are open source and the designs belong to their respective publisher, 
 
 #### Stacked acrylic
 [HolySwitch - Lotus58 Stacked case](https://github.com/HolySwitch/lotus58-stacked-case) - Requires you to mount the controller on top.
-
-***
-## For anyone designing a case for any of the keyboards
-Please feel free to add your link and make a pull request, I'm happy to add any designs.  
 
 ***
 
